@@ -1,0 +1,13 @@
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.exe
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.deps.json
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.runtimeconfig.json
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.runtimeconfig.dev.json
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.dll
+D:\Projetos\csharp-examples\Boletim\bin\Debug\netcoreapp3.1\Boletim.pdb
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.csprojAssemblyReference.cache
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.AssemblyInfoInputs.cache
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.AssemblyInfo.cs
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.csproj.CoreCompileInputs.cache
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.dll
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.pdb
+D:\Projetos\csharp-examples\Boletim\obj\Debug\netcoreapp3.1\Boletim.genruntimeconfig.cache
